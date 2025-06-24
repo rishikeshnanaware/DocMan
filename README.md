@@ -1,4 +1,4 @@
-# DocMan - Intelligent XML Document Management System
+# DocMan - XML Document Management System
 
 DocMan is a lightweight backend system built with Django for managing XML-based documents. It provides an API for uploading XML files, parsing their content, storing them in a database, and retrieving them via REST endpoints.
 
