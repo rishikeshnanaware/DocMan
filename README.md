@@ -7,7 +7,7 @@ DocMan is a lightweight backend system built with Django for managing XML-based 
 - Python 3.x
 - Django
 - Django REST Framework
-- SQLite (default) / PostgreSQL (optional)
+- SQLite (default) 
 - Pytest for testing
 
 
